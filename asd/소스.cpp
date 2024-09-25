@@ -2,6 +2,10 @@
 
 int main(void)
 {
-	printf("Hello,world\n");
-		return 0;
+	int a = 0;
+	
+	scanf_s("%d", &a);
+	printf("입력된 값 : %d\n", a);
+
+	return 0;
 }
