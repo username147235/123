@@ -2,13 +2,20 @@
 
 int main(void)
 {
-	int a;
+	int a=0;
 	int i;
 	int j;
 
-	printf("숫자 입력(1은 2~9단): ");
-	scanf_s("%d", &a);
-
+	while ((a > 9) || (a < 1))
+	{
+		printf("1~9 숫자 입력(1은 2~9단): ");
+		scanf_s("%d", &a);
+		
+		if ((a > 9) || (a < 1))
+		{
+			printf("범위 밖의 숫자 입니다.\n\n");
+		}
+	}
 	switch (a)
 	{
 	case 1:
