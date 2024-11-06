@@ -25,22 +25,13 @@ int main(void)
 	{
 		unsigned int Coin_status = Coin_Roll();
 	
-		switch (Coin_status)
-		{
-		case Up:
+		if (Coin_status == Up)
 		{
 			Up_Count = Up_Count + 1;
-			break;
 		}
-		case Down:
+		else
 		{
 			Down_Count = Down_Count + 1;
-			break;
-		}
-		default:
-		{
-			break;
-		}
 		}
 		Count = Count - 1;
 	}
