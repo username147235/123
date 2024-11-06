@@ -4,7 +4,6 @@
 
 
 #define Roll_Count 10000
-#define Roll 2
 #define Up 0
 #define Down 1
 
