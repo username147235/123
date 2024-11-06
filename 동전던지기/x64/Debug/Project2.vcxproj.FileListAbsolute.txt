@@ -1,0 +1,2 @@
+C:\Users\User\Documents\GitHub\123\Project2\x64\Debug\Project2.exe
+C:\Users\User\Documents\GitHub\123\동전던지기\x64\Debug\Project2.exe

@@ -67,7 +67,7 @@ int main(void)
 		printf("input(Rock = 0, Paper = 1, Scissos = 2\npause = 999\n");
 		scanf_s("%d", &nPlayerRps);
 
-		if (nPlayerRps = End)
+		if (nPlayerRps == End)
 		{
 			printf("End RPS game\n");
 			break;
