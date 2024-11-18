@@ -11,10 +11,11 @@ int main(void)
 	{
 	case 0:									//n % 2이 0이면
 		printf("%d은/는 짝수 입니다\n", n);	//n은 짝수임을 출력하고
-		break;								//블록을 벗어나 19행으로 이동
+		break;								//블록을 벗어나 20행으로 이동
+
 	default:								//n % 2와 일치하는 case값이 없으면
 		printf("%d은/는 홀수 입니다\n", n);	//n은 홀수임을 출력하고
-		break;								//블록을 벗어나 19행으로 이동
+		break;								//블록을 벗어나 20행으로 이동
 	}
 	return 0;
 }
