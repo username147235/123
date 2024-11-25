@@ -13,7 +13,7 @@ int main(void)
 	case 10:				//가 10이면						┐
 		printf("A\n");		//A를 출력하고					│
 		break;				//블록을 벗어나 37행으로 이동	│
-							//								│	case 9: case 10:	┐
+							//								│	case 10: case 9:	┐
 	case 9:					//가 9면						├		printf("A\n");	├궁금증에 검색 해보니 이렇게 묶어도 상관없지만
 		printf("A\n");		//A를 출력하고					│		break;			┘ppt자료에 나와있지 않아 분리했습니다
 		break;				//블록을 벗어나 37행으로 이동	┘
