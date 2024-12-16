@@ -1,5 +1,4 @@
 ﻿  소스.cpp
-C:\Users\User\Documents\GitHub\123\문자열 뒤집기\소스.cpp(21,29): warning C4552: '+': 식의 결과가 사용되지 않습니다.
-C:\Users\User\Documents\GitHub\123\문자열 뒤집기\소스.cpp(10,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Documents\GitHub\123\문자열 뒤집기\소스.cpp(20,7): warning C4101: 'rev_w' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\123\문자열 뒤집기\소스.cpp(9,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\GitHub\123\문자열 뒤집기\소스.cpp(18,7): warning C4101: 'rev_w' :참조되지 않은 지역 변수입니다.
   문자열 뒤집기.vcxproj -> C:\Users\User\Documents\GitHub\123\문자열 뒤집기\x64\Debug\문자열 뒤집기.exe
