@@ -21,4 +21,5 @@ int main(void)
 		count++;
 	}
 	printf("\nupper count = %d\n", upper_count);
+	puts(A);
 }
